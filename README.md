@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=sanjayovs.sanjayovs&count_private=true&show_icons=true&theme=radical)
+![](https://visitor-badge.glitch.me/badge?page_id=sanjayovs.sanjayovs)
 
 
 
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjayovs)](https://github.com/sanjayovs/github-readme-stats)
+[![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjayovs)](https://github.com/sanjayovs/github-readme-stats&count_private=true&show_icons=true&theme=radical)
