@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sanjayovs.sanjayovs)
+
+
+
 <!--
 **sanjayovs/sanjayovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjayovs)](https://github.com/sanjayovs/github-readme-stats)
