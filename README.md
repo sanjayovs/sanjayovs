@@ -1,9 +1,5 @@
 ### Hi there 👋
 I am Sanjay Sarma and Welcome to my GitHub Repo!
-- 🔭 I’m currently working on Behavior Tree Transfer Learning
-- 🌱 I’m currently learning Reinforcement Learning
-- 👯 I’m looking to collaborate on Multi-Agent and Multi-Robot Systems Research
-- 💬 Ask me about Agent modeling and Unity Simulation Design
 
 <!--
 **sanjayovs/sanjayovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
