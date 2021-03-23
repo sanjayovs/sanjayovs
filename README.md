@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sanjayovs.sanjayovs)
 
