@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Hardware-Jetson-informational?style=flat&logo=nvidia&logoColor=green&color=orange)
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=sanjayovs.sanjayovs)
+
 
 
 
